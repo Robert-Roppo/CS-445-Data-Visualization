@@ -1,4 +1,4 @@
-# CS-445-Data-Visualization
+# Final Project
 Final Project for Data Visualization class
 Description: This was the final project for my Data Visualiztion class. The purpose of this program was to show the differences between good and bad marks and channels.
 ## Built with
