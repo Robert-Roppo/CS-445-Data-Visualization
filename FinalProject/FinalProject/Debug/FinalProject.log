@@ -1,0 +1,19 @@
+﻿  Source.cpp
+d:\desktop\cs445\finalproject\finalproject\source.cpp(77): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(87): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(96): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(99): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(200): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(205): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(208): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(232): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(237): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(240): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(261): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(264): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(287): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(293): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(296): warning C4018: '<': signed/unsigned mismatch
+d:\desktop\cs445\finalproject\finalproject\source.cpp(297): warning C4018: '<': signed/unsigned mismatch
+  FinalProject.vcxproj -> D:\Desktop\CS445\FinalProject\Debug\FinalProject.exe
+  FinalProject.vcxproj -> D:\Desktop\CS445\FinalProject\Debug\FinalProject.pdb (Partial PDB)
