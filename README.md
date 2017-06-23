@@ -5,9 +5,7 @@ Description: This was the final project for my Data Visualiztion class. The purp
 * Language: c++
 * Libraries: [openGL](https://www.opengl.org/) - Used for computer graphics
 ## How to build
-
-1. Clone this repository using git clone https://github.com/Robert-Roppo/CS-445-Data-Visualization/FinalProject or using the github desktop client.  
-2. Open the project in Visual Studio.  
+1. Clone this repository using git clone https://github.com/Robert-Roppo/CS-445-Data-Visualization.git or using the github desktop client.  2. Open the project in Visual Studio.  
 3. Click build button and run.  
 ## How to use
 After the program is running, you will have four options of keyboard input:
